@@ -68,7 +68,7 @@
                 <li><a href="#">Sobre</a></li>
                 <li><a href="#">O que fazemos?</a>
                     <ul>
-                        <li><a href="#">Web Design</a></li>
+                        <li><a href="#">Opa</a></li>
                         <li><a href="#">SEO</a></li>
                         <li><a href="#">Design</a></li>                   
                     </ul>
